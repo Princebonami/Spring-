@@ -1,0 +1,17 @@
+127.0.0.1 - - [07/Nov/2023:17:44:30 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [07/Nov/2023:17:45:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /ExceptionalHandling_in_mvc/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /ExceptionalHandling_in_mvc/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /ExceptionalHandling_in_mvc/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /ExceptionalHandling_in_mvc/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /ExceptionalHandling_in_mvc/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /ExceptionalHandling_in_mvc/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:45:40 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:46:00 +0530] "GET /ExceptionalHandling_in_mvc/ HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:46:00 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:17:46:05 +0530] "GET /ExceptionalHandling_in_mvc/test HTTP/1.1" 200 160

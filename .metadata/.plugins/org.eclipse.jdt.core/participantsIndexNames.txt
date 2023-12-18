@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+/home/bonami/springRevision/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2038389472.index
+/removeConfigurationFile/src/main/java
+/home/bonami/springRevision/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/196925706.index
+/ExceptionalHandling_in_mvc/src/main/java
+/home/bonami/springRevision/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1080754869.index
+/requestMapping/src/main/java

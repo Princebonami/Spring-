@@ -1,0 +1,131 @@
+2023-11-07 17:40:52,840 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-11-07 17:41:43,463 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:Autowire_and_Component:0.0.1-SNAPSHOT @ /home/bonami/springRevision/Autowire_and_Component/pom.xml.
+2023-11-07 17:41:43,500 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.springmvc:ExceptionalHandling_in_mvc:0.0.1-SNAPSHOT @ /home/bonami/springRevision/ExceptionalHandling_in_mvc/pom.xml.
+2023-11-07 17:41:43,516 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:TypesOfDataTypes:0.0.1-SNAPSHOT @ /home/bonami/springRevision/TypesOfDataTypes/pom.xml.
+2023-11-07 17:41:43,527 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:Component_and_value:0.0.1-SNAPSHOT @ /home/bonami/springRevision/Component_and_value/pom.xml.
+2023-11-07 17:41:43,538 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.springmvc:removeConfigurationFile:0.0.1-SNAPSHOT @ /home/bonami/springRevision/removeConfigurationFile/pom.xml.
+2023-11-07 17:41:43,549 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:BeanScope:0.0.1-SNAPSHOT @ /home/bonami/springRevision/BeanScope/pom.xml.
+2023-11-07 17:41:43,560 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:LifeCycleOfBeans:0.0.1-SNAPSHOT @ /home/bonami/springRevision/LifeCycleOfBeans/pom.xml.
+2023-11-07 17:41:43,573 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.springvc:requestMapping:0.0.1-SNAPSHOT @ /home/bonami/springRevision/requestMapping/pom.xml.
+2023-11-07 17:41:43,584 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:ConstructorAmbiguity_StringType:0.0.1-SNAPSHOT @ /home/bonami/springRevision/ConstructorAmbiguity_StringType/pom.xml.
+2023-11-07 17:41:43,595 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:Autowiring_by_xml:0.0.1-SNAPSHOT @ /home/bonami/springRevision/Autowiring_by_xml/pom.xml.
+2023-11-07 17:41:44,315 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TypesOfDataTypes/src/main/java
+2023-11-07 17:41:44,315 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TypesOfDataTypes/src/main/resources
+2023-11-07 17:41:44,323 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TypesOfDataTypes/src/test/java
+2023-11-07 17:41:44,324 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /TypesOfDataTypes/src/test/resources
+2023-11-07 17:41:44,454 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /requestMapping/src/main/java
+2023-11-07 17:41:44,454 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /requestMapping/src/main/resources
+2023-11-07 17:41:44,455 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /requestMapping/src/test/java
+2023-11-07 17:41:44,455 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /requestMapping/src/test/resources
+2023-11-07 17:41:46,245 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConstructorAmbiguity_StringType/src/main/java
+2023-11-07 17:41:46,245 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConstructorAmbiguity_StringType/src/main/resources
+2023-11-07 17:41:46,246 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConstructorAmbiguity_StringType/src/test/java
+2023-11-07 17:41:46,246 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConstructorAmbiguity_StringType/src/test/resources
+2023-11-07 17:41:46,267 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Autowire_and_Component/src/main/java
+2023-11-07 17:41:46,267 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Autowire_and_Component/src/main/resources
+2023-11-07 17:41:46,278 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Autowire_and_Component/src/test/java
+2023-11-07 17:41:46,279 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Autowire_and_Component/src/test/resources
+2023-11-07 17:41:46,306 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExceptionalHandling_in_mvc/src/main/java
+2023-11-07 17:41:46,306 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExceptionalHandling_in_mvc/src/main/resources
+2023-11-07 17:41:46,306 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExceptionalHandling_in_mvc/src/test/java
+2023-11-07 17:41:46,307 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExceptionalHandling_in_mvc/src/test/resources
+2023-11-07 17:41:46,531 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LifeCycleOfBeans/src/main/java
+2023-11-07 17:41:46,531 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LifeCycleOfBeans/src/main/resources
+2023-11-07 17:41:46,533 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LifeCycleOfBeans/src/test/java
+2023-11-07 17:41:46,533 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LifeCycleOfBeans/src/test/resources
+2023-11-07 17:41:46,574 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BeanScope/src/main/java
+2023-11-07 17:41:46,574 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BeanScope/src/main/resources
+2023-11-07 17:41:46,577 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BeanScope/src/test/java
+2023-11-07 17:41:46,577 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BeanScope/src/test/resources
+2023-11-07 17:41:46,620 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Autowiring_by_xml/src/main/java
+2023-11-07 17:41:46,621 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Autowiring_by_xml/src/main/resources
+2023-11-07 17:41:46,626 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Autowiring_by_xml/src/test/java
+2023-11-07 17:41:46,628 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Autowiring_by_xml/src/test/resources
+2023-11-07 17:41:46,673 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /removeConfigurationFile/src/main/java
+2023-11-07 17:41:46,673 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /removeConfigurationFile/src/main/resources
+2023-11-07 17:41:46,673 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /removeConfigurationFile/src/test/java
+2023-11-07 17:41:46,674 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /removeConfigurationFile/src/test/resources
+2023-11-07 17:41:46,930 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Component_and_value/src/main/java
+2023-11-07 17:41:46,930 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Component_and_value/src/main/resources
+2023-11-07 17:41:46,932 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Component_and_value/src/test/java
+2023-11-07 17:41:46,932 [Worker-19: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Component_and_value/src/test/resources
+2023-11-07 17:41:46,963 [Worker-19: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 10 project(s) in 4 sec
+2023-11-07 17:41:47,059 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-11-07 17:41:47,221 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:Autowire_and_Component:0.0.1-SNAPSHOT @ /home/bonami/springRevision/Autowire_and_Component/pom.xml.
+2023-11-07 17:41:47,252 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:Autowiring_by_xml:0.0.1-SNAPSHOT @ /home/bonami/springRevision/Autowiring_by_xml/pom.xml.
+2023-11-07 17:41:47,270 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:BeanScope:0.0.1-SNAPSHOT @ /home/bonami/springRevision/BeanScope/pom.xml.
+2023-11-07 17:41:47,292 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:Component_and_value:0.0.1-SNAPSHOT @ /home/bonami/springRevision/Component_and_value/pom.xml.
+2023-11-07 17:41:47,309 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:ConstructorAmbiguity_StringType:0.0.1-SNAPSHOT @ /home/bonami/springRevision/ConstructorAmbiguity_StringType/pom.xml.
+2023-11-07 17:41:47,339 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.springmvc:ExceptionalHandling_in_mvc:0.0.1-SNAPSHOT @ /home/bonami/springRevision/ExceptionalHandling_in_mvc/pom.xml.
+2023-11-07 17:41:47,374 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.spring:LifeCycleOfBeans:0.0.1-SNAPSHOT @ /home/bonami/springRevision/LifeCycleOfBeans/pom.xml.
+2023-11-07 17:41:47,402 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.springmvc:removeConfigurationFile:0.0.1-SNAPSHOT @ /home/bonami/springRevision/removeConfigurationFile/pom.xml.
+2023-11-07 17:41:47,839 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Autowire_and_Component/src/main/java
+2023-11-07 17:41:47,839 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Autowire_and_Component/src/main/resources
+2023-11-07 17:41:47,839 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Autowire_and_Component/src/test/java
+2023-11-07 17:41:47,839 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Autowire_and_Component/src/test/resources
+2023-11-07 17:41:47,907 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Autowiring_by_xml/src/main/java
+2023-11-07 17:41:47,907 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Autowiring_by_xml/src/main/resources
+2023-11-07 17:41:47,907 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Autowiring_by_xml/src/test/java
+2023-11-07 17:41:47,907 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Autowiring_by_xml/src/test/resources
+2023-11-07 17:41:47,949 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BeanScope/src/main/java
+2023-11-07 17:41:47,950 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BeanScope/src/main/resources
+2023-11-07 17:41:47,950 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /BeanScope/src/test/java
+2023-11-07 17:41:47,950 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /BeanScope/src/test/resources
+2023-11-07 17:41:47,985 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Component_and_value/src/main/java
+2023-11-07 17:41:47,985 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Component_and_value/src/main/resources
+2023-11-07 17:41:47,986 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /Component_and_value/src/test/java
+2023-11-07 17:41:47,986 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /Component_and_value/src/test/resources
+2023-11-07 17:41:48,022 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConstructorAmbiguity_StringType/src/main/java
+2023-11-07 17:41:48,022 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConstructorAmbiguity_StringType/src/main/resources
+2023-11-07 17:41:48,022 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ConstructorAmbiguity_StringType/src/test/java
+2023-11-07 17:41:48,023 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ConstructorAmbiguity_StringType/src/test/resources
+2023-11-07 17:41:48,063 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExceptionalHandling_in_mvc/src/main/java
+2023-11-07 17:41:48,063 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExceptionalHandling_in_mvc/src/main/resources
+2023-11-07 17:41:48,063 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ExceptionalHandling_in_mvc/src/test/java
+2023-11-07 17:41:48,063 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /ExceptionalHandling_in_mvc/src/test/resources
+2023-11-07 17:41:48,725 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LifeCycleOfBeans/src/main/java
+2023-11-07 17:41:48,725 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LifeCycleOfBeans/src/main/resources
+2023-11-07 17:41:48,726 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /LifeCycleOfBeans/src/test/java
+2023-11-07 17:41:48,726 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /LifeCycleOfBeans/src/test/resources
+2023-11-07 17:41:48,758 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /removeConfigurationFile/src/main/java
+2023-11-07 17:41:48,758 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /removeConfigurationFile/src/main/resources
+2023-11-07 17:41:48,759 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /removeConfigurationFile/src/test/java
+2023-11-07 17:41:48,759 [Worker-3: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /removeConfigurationFile/src/test/resources
+2023-11-07 17:41:49,326 [Worker-3: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for ExceptionalHandling_in_mvc
+2023-11-07 17:41:49,353 [Worker-3: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for removeConfigurationFile
+2023-11-07 17:41:49,357 [Worker-3: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 8 poms: local refresh takes 0.00 sec, refresh facades takes 0.00 sec, update config takes 1.00 sec 
+2023-11-07 17:41:49,549 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:41:49,553 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-07 17:41:49,810 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:41:49,811 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-07 17:41:49,848 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:41:49,850 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-07 17:41:49,894 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:41:49,896 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-07 17:41:49,941 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:41:49,944 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-07 17:41:50,012 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-11-07 17:41:50,013 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:41:50,014 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-11-07 17:41:50,015 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-07 17:41:50,016 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of ExceptionalHandling_in_mvc
+2023-11-07 17:41:50,016 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for ExceptionalHandling_in_mvc
+2023-11-07 17:41:50,357 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:41:50,358 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-07 17:41:50,395 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:41:50,397 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-07 17:41:50,424 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-11-07 17:41:50,424 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:41:50,425 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-11-07 17:41:50,426 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-07 17:41:50,426 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of removeConfigurationFile
+2023-11-07 17:41:50,426 [Worker-17: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for removeConfigurationFile
+2023-11-07 17:41:50,460 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-11-07 17:41:50,460 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:41:50,462 [Worker-17: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-11-07 17:41:50,462 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-07 17:45:09,191 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-11-07 17:45:09,194 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/main/resources to target/classes
+2023-11-07 17:45:09,196 [Worker-11: Building] WARN  o.a.m.s.f.DefaultMavenResourcesFiltering - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2023-11-07 17:45:09,197 [Worker-11: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src/test/resources to target/test-classes
+2023-11-08 12:20:49,613 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

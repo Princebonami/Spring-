@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans  xmlns="http://www.springframework.org/schema/beans"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xmlns:context="http://www.springframework.org/schema/context" 
+ xmlns:p="http://www.springframework.org/schema/p" 
+ xmlns:c="http://www.springframework.org/schema/c" 
+ xsi:schemaLocation="http://www.springframework.org/schema/beans
+                    http://www.springframework.org/schema/beans/spring-beans-4.0.xsd
+                    http://www.springframework.org/schema/context 
+                    http://www.springframework.org/schema/context/spring-context-4.0.xsd">
+                    
+      <bean class="com.spring.TypesOfDataTypes.Address" name="address" p:city="Barauni" p:state="Bihar">
+        <property name="loc">
+           <set>
+              <value>Bihar</value>
+              <value>Patna</value>
+              <value>Chandigarh</value>
+            </set>
+        
+        </property>
+        <property name="mon">
+          <props>
+            <prop key="Name">My name is prince kumar</prop>
+            <prop key="Channel"> My channel is Java</prop>
+          </props>
+        </property>
+      
+      </bean>  
+      
+      <bean class="com.spring.TypesOfDataTypes.Student" name="student" p:id="1" p:name="Prince kumar" p:address-ref="address">
+        <property name="courses">
+           <list>
+             <value>Computer SCience</value>
+             <value>Mathematics</value>
+             <value>Science</value>
+           
+           </list>
+        </property>
+        <property name="hobbies">
+           <map>
+             <entry key="1" value="Watching Movies" />
+             <entry key="2" value="Playing football"/>
+           </map>
+        </property>
+      </bean>       
+ </beans>

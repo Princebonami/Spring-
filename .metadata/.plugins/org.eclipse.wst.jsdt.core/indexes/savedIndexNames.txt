@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/home/bonami/springRevision/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4279182411.index
+1107810612.index
+3468673788.index
+1207230021.index
+3994334797.index
+912980584.index
+2376382346.index
